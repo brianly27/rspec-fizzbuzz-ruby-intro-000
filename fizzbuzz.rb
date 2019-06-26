@@ -15,3 +15,4 @@ def fizzbuzz(int)
 end
 
 fiz = fizzbuzz(3)
+fiz
