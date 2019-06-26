@@ -14,5 +14,3 @@ def fizzbuzz(int)
   end
 end
 
-fiz = fizzbuzz(3)
-puts fiz
